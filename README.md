@@ -4,10 +4,8 @@ Write a simple Python program for the modulation and demodulation of PCM, and DM
 # Tools required
 # Program
 # PCM
-import numpy as np
+```import numpy as np
 import matplotlib.pyplot as plt
-
-# Parameters
 sampling_rate = 5000  # Sampling rate (samples per second)
 frequency = 50  # Frequency of the message signal (analog signal)
 duration = 0.1  # Duration of the signal in seconds
