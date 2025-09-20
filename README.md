@@ -65,7 +65,8 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
-Attach the program```
+Attach the program
+```
 
 # Delta Modulation
 ```import numpy as np
